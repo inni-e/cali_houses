@@ -3,4 +3,4 @@ This project is a Jupyter notebook containing an analysis and refinement of data
 
 The model is tested against it's own dataset, providing a RMSE (Root Mean Squared Error) just over $40,000. This model will be further worked on to improve its accuracy.
 
-The code can be accessed through your browser via Google CoLab.
+The code can be accessed through your browser via Google CoLab. https://colab.research.google.com/github/inni-e/cali_houses/blob/master/Housing.ipynb
